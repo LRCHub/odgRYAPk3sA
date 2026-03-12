@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜勤事件",
+  "base_artist": "Liza",
+  "createdAt": "2026-03-12T14:01:59.586122Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜勤事件",
+      "artist": "Liza",
+      "has_synced": false,
+      "path": "select/pl_01_夜勤事件_Liza.txt"
+    }
+  ]
+}
